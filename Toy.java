@@ -1,0 +1,7 @@
+/**
+ * Toy
+ */
+public class Toy {
+    
+    
+}
