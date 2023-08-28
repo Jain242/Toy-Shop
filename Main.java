@@ -9,7 +9,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         while (true) {
             System.out.println("1. Розыгрыш игрушек");
-            System.out.println("2. Добавить количество имеющхся игрушек");
+            System.out.println("2. Изменить количество имеющхся игрушек");
             System.out.println("3. Изменить шанс выпадания игрушки");
             System.out.println("4. Добавить новую игрушку");
             System.out.println("5. Показать список игрушек");
